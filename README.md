@@ -1,1 +1,1 @@
-# Final-Project
+This project predicts whether patients will miss their healthcare appointments using a Decision Tree model built with Python (Pandas, Scikit-learn). It involves cleaning and analyzing appointment data to identify factors like SMS reminders, age, and weekday that affect no-shows. The cleaned data is exported for visualization in Power BI, where an interactive dashboard displays key insights. The project delivers a predictive model, a Power BI report, and recommendations to optimize scheduling and reduce no-show rates.
